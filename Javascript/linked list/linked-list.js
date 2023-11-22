@@ -1,8 +1,3 @@
-//
-// This is only a SKELETON file for the 'Linked List' exercise. It's been provided as a
-// convenience to get you started writing code faster.
-//
-
 class Node {
   constructor(value=0) {
     this.value = value;
